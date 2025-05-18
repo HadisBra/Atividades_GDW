@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<produtos>
+    <produto>
+        <id>1</id>
+        <nome>Parafuso Phillips 3mm</nome>
+        <preco>0.50</preco>
+    </produto>
+    <produto>
+        <id>2</id>
+        <nome>Parafuso Phillips 5mm</nome>
+        <preco>0.75</preco>
+    </produto>
+    <produto>
+        <id>3</id>
+        <nome>Parafuso Allen 4mm</nome>
+        <preco>1.00</preco>
+    </produto>
+    <produto>
+        <id>4</id>
+        <nome>Parafuso Allen 6mm</nome>
+        <preco>1.25</preco>
+    </produto>
+    <produto>
+        <id>5</id>
+        <nome>Parafuso Sextavado 8mm</nome>
+        <preco>1.50</preco>
+    </produto>
+    <produto>
+        <id>6</id>
+        <nome>Parafuso Sextavado 10mm</nome>
+        <preco>2.00</preco>
+    </produto>
+    <produto>
+        <id>7</id>
+        <nome>Parafuso Rosca Soberba 3mm</nome>
+        <preco>0.60</preco>
+    </produto>
+    <produto>
+        <id>8</id>
+        <nome>Parafuso Rosca Soberba 5mm</nome>
+        <preco>0.90</preco>
+    </produto>
+    <produto>
+        <id>9</id>
+        <nome>Parafuso Autoatarraxante 4mm</nome>
+        <preco>1.10</preco>
+    </produto>
+    <produto>
+        <id>10</id>
+        <nome>Parafuso Autoatarraxante 6mm</nome>
+        <preco>1.40</preco>
+    </produto>
+</produtos>
